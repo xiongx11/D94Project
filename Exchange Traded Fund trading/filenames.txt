@@ -1,0 +1,8 @@
+IVV.csv
+SPY.csv
+XOM.csv
+CVX.csv
+EWJ.csv
+EWM.csv
+EWS.csv
+EWT.csv
